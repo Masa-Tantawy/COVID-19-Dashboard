@@ -5,6 +5,8 @@ Accordingly, for the second DSCI project, our team had to create a fully-functio
 “owid-covid-data.csv” contained information regarding COVID-19 mortality, cases, vaccinations, covid-19 ICU admissions, deaths and many more variables. The dashboard contains five figures and numerous stats cards. Each component of the dashboard gives a different perspective of the pandemic. The dashboard’s main aim is to provide the user with an overview of the current pandemic situation in the United Kingdom.
 
 Contents:
-1. Assets Folder containing images used in the dashboard.
-1. Data Cleaning .py file; should be run first.
-2. Main .py file
+1. Assets Folder containing images used in the dashboard
+2. world.geo.json file needed for the world map
+3. Data Cleaning .py file; should be run first
+4. Main .py file
+5. Project Report
